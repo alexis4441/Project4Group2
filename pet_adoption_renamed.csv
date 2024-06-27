@@ -1,4 +1,4 @@
-Pet ID,Pet Type,Breed,Age in Months,Color,Size,Weight in Kg,Vaccinated,Health Condition,Days in Shelter,Adoption Fee,Previous Owner,Adoption Likelihood
+Pet_ID,Pet_Type,Breed,Age_in_Months,Color,Size,Weight_in_Kg,Vaccinated,Health_Condition,Days_in_Shelter,Adoption_Fee,Previous_Owner,Adoption_Likelihood
 500,Bird,Parakeet,131,Orange,Large,5.039767823,1,0,27,140,0,0
 501,Rabbit,Rabbit,73,White,Large,16.08672685,0,0,8,235,0,0
 502,Dog,Golden Retriever,136,Orange,Medium,2.076286279,0,0,85,385,0,0
