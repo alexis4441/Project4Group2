@@ -1,6 +1,6 @@
 # Project 4 Group 2
 
-# Predicting Pet Adoption Status Proposal
+# Predicting Pet Adoption
 Alexis Rojas
 
 Katharina Sojka
