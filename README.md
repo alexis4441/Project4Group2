@@ -17,9 +17,8 @@ increasing pet adoption rates. Therefore, using machine learning to find predict
 important tool in finding these solutions.
 
 ## Dataset Description:
-The Pet Adoption Dataset provides a comprehensive look into various factors that can influence
-the likelihood of a pet being adopted from a shelter. This dataset includes detailed information 
-about pets available for adoption, covering various characteristics and attributes.
+The Pet Adoption Dataset offers a thorough examination of the several variables that may affect a pet's chances of getting adopted from a shelter. This dataset contains comprehensive data on pets that are up for adoption, encompassing a range of traits and qualities.
+
 ## Questions:
 1. How can we predict the adoption likelihood using Machine Learning?
     - We will create an analysis of existing data to make a classification.
@@ -35,23 +34,6 @@ Tableau/Matplotlib
 
 ML - Neural Network Models/Scikit-learn
 
-# Project 4 Overview 
-For Project 4, you will work with your group to solve, analyze, or visualize a problem using machine learning (ML) with the other technologies we’ve learned. Here are the specific requirements:
+# Overview 
 
-1. Find a problem worth solving, analyzing, or visualizing.
-2. Use machine learning (ML) with the technologies we’ve learned.
-3. You must use Scikit-learn and/or another machine learning library.
-4. Your project must be powered by a dataset with at least 100 records.
-5. You must use at least two of the following:
-    - Python Pandas
-    - Python Matplotlib
-    - HTML/CSS/Bootstrap
-    - JavaScript Plotly
-    - JavaScript Leaflet
-    - SQL Database
-    - MongoDB Database
-    - Google Cloud SQL
-    - Amazon AWS
-    - Tableau
-For this project, you can focus your efforts within a specific industry, as detailed in the following examples.
 
