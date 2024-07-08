@@ -55,23 +55,3 @@ For Project 4, you will work with your group to solve, analyze, or visualize a p
     - Tableau
 For this project, you can focus your efforts within a specific industry, as detailed in the following examples.
 
-## Finance
-  - Create an algorithm that analyzes credit scores and predicts consumer personal-loan eligibility.
-  - Using natural language processing, create a chatbot to perform simple tasks and help users find information.
-  - Train an algorithm to analyze consumer spending and predict trends.
-  - Train an image classifier to assess property value, which could then be used to calculate insurance quotes.
-
-## Healthcare
-  - Train an algorithm to recognize disease symptoms and predict if a patient is at risk.
-  - Train an image classifier to recognize anomalies, such as suspicious vs healthy areas of skin.
-  - Using natural language processing, create a chatbot that will help connect patients with doctors.
-  - Create an algorithm to analyze patient history and predict the likelihood of inherited illness.
-
-## Custom
-We’ve only specified healthcare and finance, but any industry can benefit from machine learning. Consider preparing a 15-minute data deep dive or infrastructure review that shows machine learning in the context of what we’ve already learned.
-
-  - Create a front-end interface that maps to an API to “smarten” the algorithm.
-  - Perform a deep dive on existing data using machine learning.
-  - Create a visualization that continues to learn where clusters lie based on ML (use Leaflet or Plotly to change the visualization).
-  - Create an idea using mock data, and simulate how machine learning might be used.
-  - Create an analysis of existing data to make a prediction, classification, or regression.
