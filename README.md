@@ -30,9 +30,11 @@ The Pet Adoption Dataset offers a thorough examination of the several variables 
 
 Python Pandas
 
-Tableau/Matplotlib
+Matplotlib
 
 ML - Neural Network Models/Scikit-learn
+
+SQL
 
 # Overview 
 
