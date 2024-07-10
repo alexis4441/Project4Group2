@@ -37,5 +37,8 @@ ML - Neural Network Models/Scikit-learn
 SQL
 
 # Overview 
+Project4Group2Clean.ipynb 
+This notebook includes the cleaned data, bar charts depicting each category, health condition vs adoption likelihood catplots, the predictions, logistic regression model, random forest model and the feature importance.
 
-
+Project_4_Group_2_Spark_SQL.ipynb
+This notebook includes the information using Spark in order to generate some predictions of certain outcomes/scenarios.
