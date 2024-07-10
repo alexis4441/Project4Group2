@@ -23,7 +23,6 @@ The Pet Adoption Dataset offers a thorough examination of the several variables 
 1. How can we predict the adoption likelihood using Machine Learning?
     - We will create an analysis of existing data to make a classification.
 2. How do certain factors affect the likelihood of a pet getting adopted?
-    - Hypothesis: Pets who are younger in age are more likely to be adopted.
     - Analyzing the impact of various factors on adoption rates.
 
 ### We will be using:
@@ -42,3 +41,6 @@ Project4Group2Clean.ipynb
 
 Project_4_Group_2_Spark_SQL.ipynb
 - This notebook includes the information using Spark in order to generate some predictions of certain outcomes/scenarios.
+
+# Conclusion
+Perfoming certain tasks like the logistic regression model, creating bar graphs for comparisons, the features importance graph, and using spark, gave us an insight on what certain factors owners look for in adopting. 
