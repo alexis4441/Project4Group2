@@ -43,4 +43,4 @@ Project_4_Group_2_Spark_SQL.ipynb
 - This notebook includes the information using Spark in order to generate some predictions of certain outcomes/scenarios.
 
 # Conclusion
-Perfoming certain tasks like the logistic regression model, creating bar graphs for comparisons, the features importance graph, and using spark, gave us an insight on what certain factors owners look for in adopting. 
+Perfoming certain tasks like the logistic regression model, creating bar graphs for comparisons, the features importance graph, and using spark, gave us an insight on what certain factors owners look for in adopting. We noticed that certain factors such as medium sized pets, age in months, vaccinated/health conditions, etc. do take part in a pet's adoption likelihood. 
