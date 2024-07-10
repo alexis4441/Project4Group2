@@ -24,6 +24,7 @@ The Pet Adoption Dataset offers a thorough examination of the several variables 
     - We will create an analysis of existing data to make a classification.
 2. How do certain factors affect the likelihood of a pet getting adopted?
     - Analyzing the impact of various factors on adoption rates.
+    - Hypothesis: If the pet has no health conditions and have been vaccinated, we believe that the pet will most likely be adopted.
 
 ### We will be using:
 
@@ -36,11 +37,22 @@ ML - Neural Network Models/Scikit-learn
 SQL
 
 # Overview 
-Project4Group2Clean.ipynb 
-- This notebook includes the cleaned data, bar charts depicting each category, health condition vs adoption likelihood catplots, the predictions, logistic regression model, random forest model and the feature importance.
+The repository contains:
 
-Project_4_Group_2_Spark_SQL.ipynb
-- This notebook includes the information using Spark in order to generate some predictions of certain outcomes/scenarios.
+- the images of charts used for the powerpoint
+- jupyter notebooks
+  - Project4Group2Clean.ipynb 
+
+    This notebook includes the cleaned data, bar charts depicting each category, health condition vs adoption likelihood catplots, the predictions, logistic regression model, random forest model and the feature importance.
+  - Project_4_Group_2_Spark_SQL.ipynb
+
+    This notebook includes the information using Spark in order to generate some predictions of certain outcomes/scenarios.
+- random forest model saved as pkl file
+- powerpoint presentation
+- python app utilizing radom forest model to predict adoption likelihood
+- csv files (original and transformed)
+    
 
 # Conclusion
 Perfoming certain tasks like the logistic regression model, creating bar graphs for comparisons, the features importance graph, and using spark, gave us an insight on what certain factors owners look for in adopting. We noticed that certain factors such as medium sized pets, age in months, vaccinated/health conditions, etc. do take part in a pet's adoption likelihood. 
+Using logistic regression model and random forest model, we found that our prediction was 91% and 93% accurate respectively. The precision score predicting whether the pet would be adopted or not were very similar. 
